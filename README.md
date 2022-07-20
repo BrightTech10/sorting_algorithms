@@ -1,6 +1,6 @@
-# SORTING ALGORITHM AND BIG O
+# 0x1B. C - Sorting algorithms & Big O
 
-![willy_wonka](willy-wonka.png)
+![willy_wonka](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
 
 # Background Context
 This project is meant to be done by groups of two students. Each group of two should pair program for at least the mandatory part.
