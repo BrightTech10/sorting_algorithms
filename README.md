@@ -130,3 +130,6 @@ Please, note this format is used for Quiz and Task questions.
 
 ## Tests
 Here is a quick tip to help you test your sorting algorithms with big sets of random integers: [Random.org](https://www.random.org/integer-sets/)
+
+## Written by:
+<b>Bright Okon</b>
